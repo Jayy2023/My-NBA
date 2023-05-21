@@ -12,6 +12,7 @@ body {
   .navbar {
     background-color: #beef00;
     padding: 10px;
+    width: 100%;
   }
   
   .nav-list {
@@ -27,7 +28,7 @@ body {
   }
   
   .nav-item a {
-    color: white;
+    color: #657a00;
     text-decoration: none;
   }
   
@@ -55,7 +56,7 @@ body {
   
   footer {
     background-color: #beef00;
-    color: white;
+    color: #657a00;
     padding: 10px;
     text-align: center;
   }
