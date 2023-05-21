@@ -22,6 +22,14 @@ body {
     margin: 0;
     padding: 0;
   }
+  .creator-image {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    margin: 10px;
+  }
+  
   
   .nav-item {
     margin: 0 10px;
@@ -53,6 +61,10 @@ body {
   .container p {
     color: #657a00;
   }
+  h2{
+    color: #beef00;
+  }
+  .creater-image
   
   footer {
     background-color: #beef00;
